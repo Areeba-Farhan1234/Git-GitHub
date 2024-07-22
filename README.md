@@ -1,9 +1,9 @@
-## Git GitHub
+      ## Git GitHub ##
 
-## Description
+      ## Description
 A brief description of what the project does and why it exists.
 
-## Installation
+    ## Installation
 Step-by-step instructions on how to install and set up the project.
 
 ```sh
@@ -28,5 +28,5 @@ Guidelines on how to contribute to the project.
 5. Push to the branch (`git push origin feature-branch`)
 6. Create a pull request
 
-## License
+## License ##
 This project is licensed under the MIT License.
